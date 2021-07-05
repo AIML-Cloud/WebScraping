@@ -10,7 +10,7 @@ This is the Flipkart website comprising of different laptops. This page contains
 #### Using python inbuilt packages extracted raw data from site onto our servers 
 <img src="./flipkartscrap.png">
 #### Algo to convert the unstructured or raw string data into structured format. 
-<img src="./output1.png">
+<img src="output1.png">
 ## Business Use Cases for Web Scrapping 
 
 - Dynamic Price Monitoring
