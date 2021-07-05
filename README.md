@@ -19,10 +19,10 @@ Below is the screenshot of Flipkart website comprising of different laptops. Thi
 ## Output in excel template
 <img src="excelTemplate.png">
 
-## Business Use Cases for Web Scrapping 
+## Business Use Cases for Web Scraping 
 
 - Dynamic Price Monitoring
 - Market Research
 - Email Gathering     
 - News and Content Monitoring
-- Social Media Scrapping           
+- Social Media Scraping           
