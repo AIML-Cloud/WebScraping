@@ -16,6 +16,9 @@ This is the Flipkart website comprising of different laptops. This page contains
 #### Algo to convert the unstructured or raw string data into structured format. 
 <img src="output1.png">
 
+## Output in excel template
+<img src="excelTemplate.png">
+
 ## Business Use Cases for Web Scrapping 
 
 - Dynamic Price Monitoring
